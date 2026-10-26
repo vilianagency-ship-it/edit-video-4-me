@@ -1,0 +1,6 @@
+{
+  "name": "AutoCut Studio - AI Video Editor",
+  "description": "Trình chỉnh sửa video tự động phong cách video-use: tự động cắt bỏ đoạn im lặng (jump cut), tạo phụ đề nhảy chữ viral, và tự động chèn chú thích minh họa thông minh theo kịch bản.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
